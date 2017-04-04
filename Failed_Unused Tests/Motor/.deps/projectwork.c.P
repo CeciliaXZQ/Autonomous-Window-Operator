@@ -1,0 +1,2 @@
+projectwork.c.o: projectwork.c
+projectwork.c :
